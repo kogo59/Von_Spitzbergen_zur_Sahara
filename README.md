@@ -1,6 +1,6 @@
 # Von Spitzbergen zur Sahara.
 
-<img align="right" height="150" src="https://github.com/kogo59/Die_schwedischen_Expeditionen_nach_Spitzbergen_und_Baeren_Eiland/blob/main/images/cover.jpg">
+<img align="right" height="150" src="https://github.com/kogo59/Von_Spitzbergen_zur_Sahara/blob/main/images/cover.jpg">
 
 This is a git repository of the source files for the book "Von Spitzbergen zur Sahara."
 
