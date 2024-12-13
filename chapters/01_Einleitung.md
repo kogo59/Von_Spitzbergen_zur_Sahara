@@ -656,7 +656,7 @@ strenger als in der Bretagne und in der Normandie, dagegen sind die Sommer
 daselbst viel heißer. Annähernd erklärt die Wärme der Jahreszeiten allerdings
 den Unterschied der Vegetation in Gegenden mit entgegengesetzten Klimaten, diese
 Grundsätze versagen aber, sobald man sie streng auf ein besonderes Gewächs
-anwenden will. Nehmen wir 3. B. diejenige Getreidepflanze, welche sich am
+anwenden will. Nehmen wir z. B. diejenige Getreidepflanze, welche sich am
 weitesten nach Norden erstreckt, die kultivirte Gerste. Ehemals glaubte man, daß
 die Kultur der Gerste da aufhöre, wo die Sommerwärme nicht hinreiche, das Korn
 zur Reife zu bringen; aber wenn man so urtheilt, findet man, daß die Gerste noch

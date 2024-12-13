@@ -16,7 +16,7 @@ geographischer Reisen und Entdeckungen<br />
 ::::
 
 :::: { .fs-l .align-center }
-**Von Spitzbergen zur Sahara.**<br /><br /><br />
+**Von Spitzbergen zur Sahara.**<br /><br />
 ::::
 
 :::: { .fs-xxs .align-center }
@@ -24,7 +24,7 @@ Von
 ::::
 
 :::: { .fs-l .align-center }
-**Charles Martins.**<br /><br /><br />
+**Charles Martins.**<br />
 ::::
 
 :::: { .wrap-30 }
@@ -41,7 +41,7 @@ Hermann Costenoble<br />
 ::::
 
 :::: { .fs-jumbo .align-center }
-**Von Spitzbergen zur Sahara.**<br /><br /><br />
+**Von Spitzbergen zur Sahara.**<br /><br />
 ::::
 
 :::: { .fs-s .align-center }
@@ -62,7 +62,7 @@ von
 ::::
 
 :::: { .fs-xl .align-center }
-**Charles Martins.**<br /><br /><br />
+**Charles Martins.**<br /><br />
 ::::
 
 :::: { .fs-xxs .align-center }
@@ -85,7 +85,7 @@ von
 ::::
 
 :::: { .fs-l .align-center }
-**Karl Vogt.**<br /><br /><br />
+**Karl Vogt.**<br /><br />
 ::::
 
 :::: { .fs-xs .align-center }
@@ -131,7 +131,6 @@ meines Freundes<br /><br />
 Schiffslieutenant,<br />
 Professor der Physik an der polytechnischen Schule, Mitglied des<br />
 Instituts von Frankreich und der Akademie der Wissenschaften<br />
-zu München,<br />
-<br /><br /><br />
+zu München,<br /><br /><br />
 gewidmet.
 ::::

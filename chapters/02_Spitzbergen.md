@@ -438,6 +438,7 @@ daneben die entsprechenden Temperaturen für Paris, von Herrn Renou berechnet un
 auf fünfundvierzigjährige (von 1816 bis 1860 laufende), auf der Sternwarte von
 Paris angestellte Beobachtungen gestützt.
 
+::::: fs-s
 
 ||Spitzbergen.| Paris.|
 |---|---:|---:|
@@ -454,6 +455,8 @@ Paris angestellte Beobachtungen gestützt.
 |November|-14°,5|6°,6|
 |Dezember|-15°,0|3°,5|
 Table: *Mittlere Monatstemperaturen auf Spitzbergen unter dem 78. Breitengrade und zu Paris unter 48° 5´n. Br.*
+
+:::::
 
 Die mittlere Jahrestemperatur beträgt demnach -8°,6, während die von Paris
 +10°,6, so daß der Unterschied sich auf 19 Grad beläuft.
@@ -1446,7 +1449,7 @@ und an den feuchten oder torfigen Orten Mitteleuropas erhalten.“
 :::: justified
 
 Sprechen wir zuerst von den Landsäugethieren, deren Zahl nur vier beträgt. Der
-weiße Bär (Ursus maritimus L,) ist das bekannteste darunter. Sommers an den
+weiße Bär (Ursus maritimus L.) ist das bekannteste darunter. Sommers an den
 Küsten selten, sieht man ihn fast nur im Norden von Spitzbergen. Parry hat bei
 seinem Versuche, den Pol durch Beschreiten des Eises zu erreichen, auf dem
 Bankeis unter 81°30 einen solchen angetroffen. Das Thier ward von den Matrosen
@@ -1720,7 +1723,7 @@ Lancaster- und Melvillestraße aufsuchen.
 
 ::::
 
-### Vögel.
+#### Vögel.
 
 
 :::: justified
@@ -1732,7 +1735,7 @@ Art, das Schneehuhn des Nordens, wandert nicht, alle andern sind Zugvögel.
 
 ::::
 
-#### Vögel Spitzbergens.
+##### Vögel Spitzbergens.
 
 :::: justified
 
