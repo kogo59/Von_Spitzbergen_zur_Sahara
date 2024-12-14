@@ -198,7 +198,7 @@ Naturforscher und Physiker zu kurzem Aufenthalte ging die *Recherche* auf's neue
 unter Segel und den 12. August im Hafen von Hammerfest vor Anker. Hier theilte
 sich die Kommission; mehre Mitglieder überstiegen die Kette der skandinavischen
 Alpen und kehrten über Stockholm und Kopenhagen nach Frankreich zurück, andere
-direkt mit der *Recherche.* Endlich blieben nur die Herren Lilliehöök und
+direkt mit der *Recherche.* Endlich blieben nur die Herren Lilliehöok und
 Siljeström, schwedische Physiker, Lottin und Bravais, französische
 Marineofficiere, und Bevalet als Zeichner zurück, um in Lappland zu überwintern
 und sich einer Reihe von Beobachtungen über die Meteorologie und Physik des
@@ -454,7 +454,7 @@ zählen, welcher der Mensch angehört.
 :::: justified
 
 
-Den 1. September 1838 waren die Herren Lottin, Lilliehöök, Bravais und
+Den 1. September 1838 waren die Herren Lottin, Lilliehöok, Bravais und
 Siljeström zu Bossekop vereinigt. Die Wohnung eines Kaufmanns war zum
 Mittelpunkt gewählt worden, dort wohnten die Franzosen, die beiden Schweden
 hatten sich in zwei besonderen Häuschen eingerichtet. Allein die Menschen
@@ -469,7 +469,7 @@ passender Lage befand, brach man es ab, um es anderwärts wieder aufzubauen. Die
 viereckig behauenen Balken, welche das Fachwerk ausmachten, wurden abgeschlagen,
 Stück für Stück numerirt und auf den Gipfel des Hügels geschafft, wo das Haus
 von neuem aufgebaut ward. Durch dies Beispiel ermuthigt, ließ auch Herr
-Lilliehöök das seinige versetzen, damit ihm nichts den Anblick des Horizonts
+Lilliehök das seinige versetzen, damit ihm nichts den Anblick des Horizonts
 benähme. Nachdem die Häuser an Ort und Stelle gesetzt waren, mußte man daneben
 Mauerpfeiler für die Instrumente errichten, einen Ofen im Laboratorium anlegen
 und einen artesischen Brunnen in den Boden bohren, um die Erdtemperatur bei
@@ -1380,7 +1380,843 @@ Gebräuche aufzuerlegen, sollten wir ihre sittlichen und geistigen Fähigkeiten
 ausbilden, und je mehr ihre Bildung sich entwickelt, desto besser und folglich
 glücklicher werden sie werden.
 
+::::
 
+## Reise in Lappland vom Eismeer bis zum Bottnischen Meerbusen.
+
+
+:::: justified
+
+Im Herbst des Jahres 1839 ging der Verfasser der nachstehenden Beschreibung mit
+August Bravais über die Landenge, welche das Eismeer mit dem Bottnischen
+Meerbusen verbindet. Von Bossekop bis Karesuando reisten sie in Gesellschaft mit
+ihren Collegen, den Herrn Gaimard, Marmier, Durocher, Anglès, Lauvergne und
+Giraud. Zu Karesuando aber trennten sie sich von den übrigen Mitgliedern der
+Kommission und gingen allein auf dem Muonio- und Torneo-elf bis Haparanda, einer
+schwedischen Stadt, herunter, welche sich dem alten Torneo gegenüber erhebt, das
+jetzt dem russischen Reiche einverleibt ist. Das Barometer in der Hand haben sie
+das breite lappländische Plateau nivellirt und sorgfältig die Höhengrenzen der
+verschiedenen Pflanzenzonen bestimmt. Von den Ufern des Eismeeres bis zu den
+nackten Spitzen des Kjölen haben sie gesehen, wie die Flora allmälig verarmte,
+dann am Südabhange des Massivs allmälig wieder zum Vorschein kam, je mehr sie
+sich den großen Flüssen näherten, welche sich in den Bottnischen Meerbusen
+ergießen.
+
+Im Jahre 1806 hatte ein berühmter Reisender, Leopold von Buch^[^0303]^ dieselbe
+Reiseroute eingeschlagen. Von Bossekop bis Kautokeino sind die Routen
+wahrscheinlich dieselben. Bei Kautokeino scheiden sie sich, um bei Palajocki, an
+den Ufern des Muonioelf, wieder zusammenzutreffen; von da hat uns, wie ihn, ein
+und derselbe natürliche Weg, der Lauf dieses großen. Flusses, zur alten Stadt
+Torneo geführt. Den Spuren eines so geschickten Beobachters folgend, bleibt in
+wissenschaftlicher Beziehung weiter nichts übrig, als Nachlese zu halten, und in
+literarischer Beziehung dürften sich wohl nur wenige Schriftsteller schmeicheln,
+dem Reiz seines Styles und dem Kolorit seiner Beschreibungen gleichzukommen.
+Doch verdienen unsere barometrischen Messungen vielleicht mehr Vertrauen als die
+seinigen, denn wir genossen eines Vortheils, dessen er zu einer Zeit beraubt
+war, wo die Meteorologie weniger betrieben wurde, als gegenwärtig. Tüchtige und
+gewissenhafte Beobachter, die Herren Thomas und Ihle zu Kaafjord und der Herr
+Pastor Lästadius zu Karesuando, beobachteten dreimal täglich gute Instrumente,
+die mit den unserigen verglichen und auf Punkten über dem Weeresspiegel oder
+Höhen aufgestellt waren, die als hinlänglich bekannt gelten dürfen. Weniger
+glücklich als wir hat von Buch wahrscheinlich in weiten Entfernungen nach
+Beobachtungen suchen müssen, die mit den seinigen kombinirt werden könnten, um
+zur Bestimmung der verschiedenen Punkte seines Nivellements zu dienen.
+
+In der schönen Jahreszeit ist der Monat September fast der einzige, worin man
+die Reise durch Lappland unternehmen kann. Vom 20. November bis 20. April läßt
+sich die Reise auf einem mit Renthieren bespannten Schlitten machen, sie bietet
+dann weiter keine Beschwerden, als die Strenge der Kälte, den Widerschein des
+Schnees sowie die Ermüdung des Schlittenfahrens, welche für den dieser
+beschwerlichen Beförderungsweise ungewohnten Reisenden groß ist. Im Frühjahr
+vereitelt das Schmelzen des Schnees jeden Versuch. Im Juli und August ist der
+Schnee größtentheils geschmolzen, der sumpfige Boden Lapplands aber ist noch von
+Wasser getränkt und Wolken von Schnaken fallen wüthend über die unglücklichen
+Reisenden her. Die, welche diese beiden Monate wählten, haben fast sämmtlich
+ihre Verwegenheit bereut, so die Herren Sibuet und de Beaumont. Im Oktober ist
+es zu spät, der Schnee fängt an liegen zu bleiben, und wenn er zu reichlich
+fällt, so kann er das Leben der Pferde gefährden, indem er die Weideplätze, wo
+sie ihre Nahrung finden, vollständig bedeckt.
+
+Am 6. September 1839 verließen wir Bossekop. Bravais, der eben erst dreizehn
+Monate hinter einander in diesem einsamen Distrikt zugebracht hatte, war kaum
+von den Folgen eines schmerzhaften Knieleidens hergestellt, zum Glück bedachte
+ihn das Loos mit einem vortrefflichen Pferde, geduldig, muthig und abgehärtet
+gegen Beschwerden. An schlimmen Stellen behutsam, schien es seine ganze Kühnheit
+für die Schneestürze, denen wir auf unserem Marsche begegneten, aufzusparen; den
+Abhang am steilsten Punkte hinansetzend, klomm es schnell empor und suchte eine
+Ehre darin, immer an der Spitze des Zuges zu bleiben. Ein Fall hätte für seinen
+Reiter verhängnißvoll werden und seine Schmerzen erneuern können, nie aber trat
+es fehl, selbst beim Zurücklegen der bodenlosen Torfmoore nicht, denen man in
+Lappland so häufig begegnet. Es ist nicht unsere Absicht, hier die
+geschichtlichen Einzelheiten der Reise unserer Karawane zu geben, sondern wir
+werden nur bei unsern eigenen Beobachtungen verweilen, welche fast sänmtlich die
+physikalischen und Naturwissenschaften betreffen.
+
+Den 6. September Abends übernachteten wir in Eiby (Aiby auf der Karte des
+Kapitains Roosen) an den Ufern des Altenelf, um daselbst zu übernachten. Die
+Straße, welche nach Eiby führt, entfernt sich nur wenig von den sandigen Ufern
+des Flusses und durchschneidet schöne Wälder von Kiefern (Pinus sylvestris),
+Birken (Betula alba),^[^0304]^ Ellern (Alnus incana, ß virescens, Wahlenb.). vermischt
+mit verkrüppelten Sträuchern des gemeinen Wachholders, des rothen
+Johannisbeerbusches, des Rubus aretirus und der Tamarix germanica. Die Birken
+sind meist 15 Meter hoch, und unter den Kiefern erreichen einige 20 Meter Höhe.
+Eiby selbst liegt in einem Grunde fast in einer Linie mit den Gewässern des
+Altenelf und ist von schönen Bäumen umgeben, in deren Mitte man eine ziemlich
+breite Lichtung gehauen hat. Das Thal, fast von allen Seiten geschlossen, wird
+durch sandige und waldige Terrassen beherrscht, welche sich etwa dreißig Meter
+über den Alluvialboden des Thales erheben. Der Einfluß dieses Schutzes zeigt
+sich im Habitus der Birken. Sie haben nicht mehr jenes steife Aussehen, jene
+starren und aufwärts gerichteten Zweige der Birken, welche die Seegestade und
+die Umgegend von Hammerfest bewohnen. Der Baum hat wieder einen Theil seiner
+südlichen Grazie angenommen, der Stamm schießt schlank in die Höhe, und die
+äußerst biegsamen Zweige fallen zur Erde nieder und wiegen sich im Winde. Die
+Hauptursache dieser Unterschiede im Aussehen derselben ist folgende: Mit
+wiederkehrendem Frühling, wenn die Birke von der bleichen Sonne Lapplands nur
+ungenügende Wärme empfängt, treiben ihre Knospen nur dicke und kurze Zweige,
+welche an ihrer Spitze vier bis sechs rosettenförmig gestellte Blätter tragen.
+Ist der dann folgende Sommer kalt und feucht, so erreicht der jährliche Trieb
+nur einige Millimeter Länge, doch ist der Durchmesser desselben beträchtlich. An
+diesen verkrüppelten Aesten zeigen sich deutlich die Spiralen mit *zwei bis drei
+Parallelen* genau wie bei einem Farnrhizom. Diese Zweige sind stets starr und
+gen Himmel gerichtet. Es trete aber einmal ein wärmerer Sommer als gewöhnlich
+ein, so streckt sich der Zweig, dünner werdend, länger hinaus, die Blätter
+entfernen sich von einander und der zarte und schwanke Ast neigt sich wie bei
+den Birken unserer Klimate zu Boden. Zuweilen bietet ein und derselbe Zweig das
+eine wie das andere Aussehen dar in der Weise, daß er von Punkt zu Punkt knotig
+erscheint.
+
+Den 7. September brachen wir gegen elf und ein halb Uhr Morgens von Eiby auf und
+machten uns ohne Verweilen an die Besteigung der Kjölenkette. Mittags traten wir
+aus einer sumpfigen Waldung heraus; doch erhebt sich die Baumvegetation noch
+höher. Um zwei und dreiviertel Uhr langten wir bei den letzten Kiefern an; die
+Grenze derselben befindet sich 249 Meter über dem Meere. Um drei und ein halb
+Uhr waren wir bei einer Höhe angelangt, wo die Birke in zusammenhängender Weise
+zu wachsen aufhört, d. h. bei 380 Metern; in dieser Höhe verkrüppeln die
+zerstreuten Birken allmälig und verschwinden gänzlich über 432 Metern.
+
+Die Höhengrenze der Birken ist im Allgemeinen leichter als die der Fichten zu
+bestimmen, sie bildet am Abhange der Gebirge eine bestimmte und deutlich
+gezogene Linie. In Betreff der Kiefern verhält es sich anders, diese Bäume
+wachsen massenweise und erheben sich nur wenig am Abhange der Gebirge, die
+vereinzelten Individuen aber steigen viel höher hinan. So hat Bravais eine
+kleine vereinzelte Kiefer von sechs Dezimeter Höhe am nördlichen Gehänge des
+Storvandsfield in einer Höhe von etwa 500 Metern angetroffen.
+
+Um fünf Uhr überschritten wir das nördlichste Kettenglied des Kjölen, welches
+558 Meter hoch ist, worauf wir in das Thal des Karajocki, ein Seitenthal
+desjenigen des Altenelf, hinabstiegen. Am Südabhange dieses Kettengliedes
+steigen die Birken sehr hoch in die Höhe; die ersten trafen wir um fünf und ein
+halb Uhr an, sie waren von 534 Meter an sehr verkrüppelt und standen an
+geschützten Stellen. Neben diesen Birken fanden sich geschliffene und gereifelte
+Blöcke, ähnlich denen, welche man auf dem Kongshavnsfield antrifft, wir hatten
+aber keine Zeit, sie aufmerksam zu untersuchen. Um sechs und ein halb Uhr hatten
+wir den Ort erreicht, wo wir die Nacht zubringen sollten. Es ist dies eine von
+zwei Armen des Karajocki umgebene Insel, ihr Boden liegt 23 Meter über dem
+Meere. Es ist klar, daß dies der Rastplatz war, wo von Buch den 4. September
+1806 übernachtete.^[^0305]^ Er weist ihm 467 Meter Höhe an. Die Insel ist sehr grün und
+bietet reichliches Futter für die Pferde dar, sie ist mit Birken und Weiden
+bedeckt. Die Temperatur dieser Gegend ist niedrig, selbst im Sommer, denn die
+Insel wird von einer Masse Schnee beherrscht, der auf einem nordöstlich
+gerichteten Abhange liegt und nie gänzlich verschwindet. Unser Führer hat ihn
+seit dreißig Jahren, in denen er die Berge durchstreift, stets gesehen.
+
+Folgenden Tags, den 8. September, brachen wir um sechs und ein halb Uhr Morgens
+auf. Den Rastplatz verlassend, begannen wir sogleich, nachdem wir den Fluß
+passirt hatten, anzusteigen. Ein prickelnder Nebel umgab uns von allen Seiten,
+bald aber ließen wir ihn hinter uns, worauf wir die Sonne hell über unsern
+Köpfen glänzen sahen. Der *weiße Regenbogen* zeichnete sich auf dem Nebel in
+sehr schwacher Entfernung von uns der Sonne gegenüber ab; sehr interessant wäre
+es gewesen, den Durchmesser desselben zu messen, allein der schnelle Marsch der
+Karawane gestattete dies nicht.
+
+Sobald man die Thalsohle verlassen hat, verliert man die Birken aus dem Gesicht,
+welche an dem Nordabhange der zweiten Kette, die wir in Begriff waren zu
+überschreiten, nicht emporsteigen. Der Gipfel dieses Massivs ist ein sehr
+breites Plateau, Nuppivara genannt, dessen erste Stufen, welche wir gegen acht
+Uhr erreichten, bei 600 Meter über dem Meere liegen.
+
+Nichts vermag eine Vorstellung von dem öden und doch großartigen Anblick dieser
+Hochebene zu geben. Die breiten wellenförmigen Erhebungen des Terrains folgen
+sich unabsehbar stets in derselben Art. Selten unterbricht ein Fels mit
+schroffen Formen, die allgemeine Bodenfläche überragend, auf Augenblicke die
+Einförmigkeit der Landschaft. Ueberall ist der Fels nackt, nur hier und da
+verstecken sich verkrüppelte Büsche der Zwergbirke und einige noch niedrigere
+Gewächse^[^0306]^ in den Bodenfalten, wo sie geschützt sind gegen die eisigen Winde,
+welche sich auf diesen entblößten Flächen frei umhertummeln. Einsame Seen
+schlummern in den großen Bodensenken. Die einen, von ungeheurer Ausdehnung,
+tragen noch zur Einförmigkeit dieses Anblicks bei. Die andern, kleiner, vermögen
+ihn nicht zu beleben, denn kein Baum, kein Kraut badet seine Wurzeln in ihren
+gelblichen Gewässern, kein Weichthier kriecht an ihren nackten Gestaden, kein
+Vogel bestreicht mit schnellem Fittich ihre Oberfläche, nur ihre Tiefen sind von
+zahlreichen Fischen bewohnt, zu deren Fange die Lappen im Herbst hierher kommen.
+Während des Sommers steigen Myriaden von Schnaken aus diesen Seen auf und
+verbieten dem Reisenden die Wanderung über dieses Plateau. Im Winter gefriert
+Alles, und acht Monate lang verschwinden Erde und Wasser unter einem Leichentuch
+von Schnee. Das Gefühl der Einsamkeit und Verlassenheit beschleicht den
+Reisenden, welcher diese Wüsten des Nordens durchzieht. Nichts um ihn her lebt,
+Alles ist still und todt.^[^0307]^ Stets im Mittelpunkt einer Landschaft, die sich
+nicht verändert, stets in derselben Richtung die Schneekuppen der fernen im
+Westen sich verlierenden Lyngenkette vor sich, möchte er fast glauben, er komme
+nicht vom Fleck, sondern drehe sich unaufhörlich in einem magischen Kreise.
+
+Der *Wappus* oder lappländische Führer jedoch leitete uns in diesen Einöden ohne
+Zaudern. Nichts vermochte seinen gleichformigen Gang zu beschleunigen, zu
+verzögern. In gleichmäßigem Schritt betrat er die Torfmoore und stieg er die
+steilsten Abhänge hinan, oft erschien er uns oben auf einer Anhöhe, sich mit
+seinem langen Stabe auf der Schulter gegen den Himmel abhebend, als der Führer
+und Befehlshaber, von dem das Heil unserer Karawane abhing. Kein Ereigniß
+brachte Abwechslung in die Monotonie dieses Tagemarsches, nur Tausende von
+Lemmings, durch das Getrappel unserer Pferde aufgeschreckt, liefen hin und
+wieder, und zwei wilde Renthiere verschwanden, nachdem sie uns ein paar Sekunden
+erstaunt betrachtet hatten, am Horizont wie ein phantastisches Wild.
+
+Gegen vier und ein halb Uhr begannen wir abwärts zu steigen, aber auf wenig
+geneigten Abhängen. Um sieben Uhr waren wir auf einem Plateau, welches das
+östliche Ufer eines großen Sees, von den Lappen Törö genannt, begrenzt, dessen
+Länge etwa einen Myriameter beträgt. Das Barometer zeigte 687 Meter Erhebung. Um
+sieben und ein halb Uhr stießen wir auf die ersten Weiden (Salix Lapponum L.),
+mit dem gemeinen Wachholder bunt durcheinander wachsend. Ein wenig unterhalb
+fanden sich sumpfige Weidenplätze. Es wäre unmöglich gewesen, zwischen diesem
+und dem vorigen Punkte einen Ort zu finden, wo wir Feuer hätten anzünden und
+unsere Pferde grasen lassen können. Dieser Rastplatz ist Lipsakoppi, 610 Meier
+über dem Meeresspiegel.
+
+Es ist schwer, in diesem Törösee nicht den von Buch unter dem Namen Zhjolmijaure
+bezeichneten wieder zu erkennen; der gelehrte Reisende giebt ihm die längliche
+Form, welche wir beschrieben haben, dieselbe Länge und eine Höhe von 682
+Meter.^[^0308]^ Der Fluß, welcher an unserm Lager vorbeifloß, war sicherlich der
+Lipsajocki oder wenigstens einer seiner Zuflüsse; an seinem Ufer erhob sich die
+lappländische Weide bis zu zwei Meter Höhe.
+
+Nachdem wir folgenden Tags um acht Uhr Meorgens aufgebrochen waren, folgten wir
+zuerst den Windungen eines wasserarmen kleinen Thales, das ein ehemaliges
+Flußbett zu sein scheint, wiewohl man daselbst keine Rollkiesel antrifft. Der
+Wechsel von ein- und ausspringenden Winkeln an seinen Ufern ist sehr regelmäßig.
+Um acht Uhr und einige Minuten sahen wir den Wachholder wieder zum Vorschein
+kommen, um zehn und ein halb Uhr waren wir am rechten Ufer eines der Zuflüsse
+des Lipsajocki, das Vottajocki. Die Rast, welche wir an seinen Ufern hielten,
+ist von Herrn Lauvergne abgebildet worden. An den Ufern des Flusses hat die
+Salix Lapponum 3 Meter Höhe. Diese Weide liebt merkwürdig die fließenden
+Gewässer; es ist eine von den Pflanzen, welche sich an den Gebirgen erheben,
+indem sie dem Laufe der Bergbäche aufwärts folgen, während andere es vorziehen,
+die Felsenkämme zu erklimmen, welche den Gipfel der Gebirge mit ihrer Basis
+verbinden. Wir befanden uns damals 531 Meter über dem Meere, und die Birken
+hatten sich noch nicht wieder gezeigt.
+
+Bald nach Mittag verließen wir unsern angenehmen Halteplatz am linken Ufer des
+Vottajocki, der nun betretene Distrikt ward weniger uneben. Um ein und
+dreiviertel Uhr sahen wir die Birken wieder auf dem leicht nach Süden geneigten
+Abhange eines großen Plateaus zum Vorschein kommen, 477 Meter über dem Meere
+hörten sie plötzlich auf. Diese Höhenbestimmung scheint uns ziemlich genau zu
+sein. Kein örtlicher Schutz oder Einfluß hat hier die natürliche Grenze dieser
+Bäume zu verändern vermocht, das Plateau, wo sie wachsen, ist gänzlich offen,
+und eine ziemlich bedeutende Anzahl derselben war abgestorben oder
+zerschmettert. Wahrscheinlich sind es Kälte und Wind, welche ihr Wachsthum hier
+begrenzen. Anfangs verkrüppelt und kaum die Höhe von einem Meter erreichend,
+sieht man sie schnell an Größe zunehmen, je mehr man fortfährt, gen Süden
+herabzusteigen. Eine Stunde weiter in einer Höhe von 447 Meter sind diese selben
+Birken bereits 5 Meter hoch. Es ist sehr wahrscheinlich, daß die
+fortgeschrittensten Bäume dazu dienen, die andern gegen den Nordwind zu
+schützen, und daß die Birken der höchsten Zone zu einer bei weitem größern
+Entwickelung gelangen würden, wenn sie geschützt wären. In dieser selben Höhe
+(447 Meter) trafen wir den ersten Stamm eines Vogelbeerbaums an.
+
+Von Buch weist der Grenze der Birken an dieser Stelle 504 Meter an.^[^0309]^
+Dieser Unterschied kann von den Irrungen im Messen herrühren, doch wäre es
+möglich, daß Buch die Grenze bei irgend einem geschützten Stamme bemerkt hätte.
+
+Um sechs und einviertel Uhr machten wir Halt und schlugen unser Zelt für die
+Nacht unter großen Birken und in angenehmer Lage bei dem Ufer eines kleinen
+Flusses auf, der wahrscheinlich der Lipsajocki ist. Unser Führer bezeichnete
+diesen Ort mit dem Namen Judsövuomi. Drei Beobachtungen liefern uns 391 Meter
+für die Höhe dieses Punktes.
+
+Während dieser beiden Reisetage wurden wir von zahllosen Legionen Lemmings (Mus
+lemmus L.), welche nach Süden zogen, begleitet. Unterhalb der Birkengrenze nahm
+ihre Zahl ein wenig ab. Sehr gewöhnlich auf den Hochebenen, an trockenen und
+dürren Stellen, waren sie seltener in den Gründen und an sumpfigen Orten, und
+liefen mit großer Schnelligkeit hin und wieder. Verfolgt, versteckten sie sich
+unter den Gruppen der Zwergbirke, oder suchten sich zu vertheidigen. Als wir die
+Spitze des Zuges bei den Stromschnellen von Eyenpaika auf dem Muonioflusse
+erreicht hatten, erkannten wir deutlich, daß sie alle in derselben Richtung
+zogen. Schon vor längerer Zeit habe ich die Beobachtungen, welche wir über diese
+Thiere anstellten, veröffentlicht.^[^0310]^
+
+Den 10. September um fünf und einviertel Uhr Morgens setzten wir über den Fluß,
+an dessen Ufer wir unser Zelt aufgeschlagen hatten, und die gewöhnliche Route
+verlassend, steuerten wir auf einen in der Nähe liegenden Hügel zu, wo wir eine
+scharf gezogene Grenze der Betula alba bemerkten. Der Gipfel bildet ein offenes,
+in der Richtung von N. N. W. nach S. S. O. verlängertes Plateau; wir hingen
+unsern Barometer an einen einzeln stehenden Baum, 30 Meter etwa über der Grenze
+der in geschlossenen Beständen wachsenden Birken auf. Auf diese Weise fanden
+wir, daß das einzeln stehende Individuum sich 508 Meter und die allgemeine
+Grenze auf der S. W. Seite des Berges 480 Meter über dem Meere befand, eine
+Bestimmung, die mit der vom vorigen Tage übereinstimmte. Auf dieser Grenze
+erreichen die Birken noch 2 bis 3 Meter Höhe. Auf dem übrigens sehr dürren
+Plateau wuchsen Salix Lapponum, Betula nana, Empetrum nigrum. Dieser etwa 620
+Meter hohe Berg ist wahrscheinlich der *Lilla Lipza* auf Buch's Karte. Nach
+Judsövuomi zurückgekehrt, trafen wir daselbst die übrigen Mitglieder der
+Kommission an und verließen unser Lager gegen acht Uhr Morgens. Wir setzten im
+Nachen über den Siaberdajocki; es ist dies der beträchtlichste Zufluß des
+Altenelf. Buch war genöthigt, ihn mit großer Mühe zu durchwaten. Im Frühling muß
+der Uebergang über diesen Fluß sehr schwierig sein. Denselben Tag um drei und
+einhalb Uhr erreichten wir Kautokeino, ein bedeutendes Dorf des norwegischen
+Lappland. Wir richteten uns im Hause des *Prästgaard* ein, der damals völlig
+leer stand, denn der Pfarrer hält sich nur im Winter daselbst auf. Unser
+Barometer ward im Erdgeschosse in demselben Saale aufgestellt, wo Herr Lottin
+vor einigen Monaten sich aufgehalten hatte. Unsere meteorologischen
+Beobachtungen umfassen den 11., 12., 13. und 14. September 1839. Verbunden mit
+denen des Herrn Lottin, weisen sie dem Erdgeschoß des Prästgaard von Kautokeino
+eine Höhe von 301 Meter über dem Meere an.^[^0311]^ Die Gewässer des Alten liegen etwa
+295 Meter hoch. Das Pfarrhaus ist das bemerkenswertheste Gebäude des ganzen
+Dorfes; letzteres wird bewohnt von Finnländern oder Finnen und von Lappen, von
+denen die einen ansässig sind, die andern ein Nomadenleben führen und nur
+hierher kommen, um den Winter über zu bleiben. Die Wohnungen liegen zerstreut
+inmitten großer Wiesen, ein Theil derselben ist auf das linke Ufer des Flusses
+gebaut, der Prästgaard aber und die Kirche nehmen das andere Ufer ein. Auf einer
+Anhöhe fanden wir einen Brunnen in den Sand gegraben, er hatte 5,, M. Tiefe im
+Ganzen, die des Wassers betrug 1,~30~ M. Die Wände des Brunnens waren mit einer
+Eisschicht von 2 Meter Höhe, von der Wasserfläche an gerechnet, bedeckt. Dieses
+Eis mußte sich den ganzen Sommer über gehalten haben, und dieser eine Umstand
+genügt, um eine Vorstellung von der Strenge des Klimas zu geben.
+
+Ohne die starre Winterkälte würde Kautokeino ein keineswegs unangenehmer
+Aufenthaltsort sein. Die Oertlichkeit ist sehr offen und von kleinen Plateaus
+umgeben, deren sanfter Abhang dem Flusse zugekehrt ist. Dieser wird von sandigem
+Terrain eingefaßt, dessen oberes Niveau 20 Meter über dem Flusse liegt. Der
+Anblick des Himmels ist vollkommen frei, die Gebirge nehmen die letzten Flächen
+des Horizonts ein. Dieser Ort würde demnach äußerst günstig für astronomische
+Beobachtungen sein und eine vortreffliche Station bilden, um Messungen über die
+Höhe der Nordlichter anzustellen, Messungen, die solchen entsprächen, welche
+andere Beobachter gleichzeitig zu Bossekop anstellen würden. Die Linie, welche
+beide Stationen mit einander verbindet, bildet einen sehr spitzen Winkel mit dem
+magnetischen Meridian. Man hat nämlich:<br/>
+
+:::: margin-left-xxl
+Prästgaard von Kautokeino:<br/>
+Breite = 69° 0´ 34“ n. Länge = 20 59´ 51“ ö.<br/><br/>
+
+Bossekop, Haus des Herrn Klerck:<br/>
+Breite = 69° 58´ 0". Länge = 21° 4´ 15“ ö.
+::::
+
+Demnach würde das Azimuth der nördlichen Station 1° 30´ ö. in Bezug auf die
+Südstation sein, und der beiden Stationen gemeinsame Vertikalkreis mit der Ebene
+des magnetischen Meridians einen Winkel von 12° bilden; der Bogen, welcher beide
+Stationen mit einander verbindet, würde eine Länge von 167 Kilometer besitzen.
+Diese Umstände würden der Bestimmung der Parallaxe der Nordlichter sehr günstig
+sein. Die Meeresnebel können nur schwer diesen Abstand erreichen, und der Himmel
+muß im Ganzen klar sein.
+
+Man trifft auf dem an die Kirche stoßenden Friedhofe sowie auf den benachbarten
+Höhen einige schöne Birken an, Kiefern aber bekommt man daselbst nicht zu
+Gesicht, doch kam dieser Baum vor nicht ganz hundert Jahren in der Umgegend von
+Kautokeino vor. Das Vorkommen der Kiefer in dieser Höhe (320 Meter) ist nichts
+Außerordentliches, weil sie bei Karajocki, Kalanito und Suvajervi noch höher
+ansteigt. Wenn sie gegenwärtig also nicht mehr zu Kautokeino wächst, so kommt
+dies daher, daß die Einwohner sie haben verschwinden lassen, indem sie die
+Stämme zum Bauen ihrer Häuser verwandten. Nun weiß man, daß die Wälder, einmal
+ausgerottet, sich in vielen Ländern nicht wieder erzeugen. Die verschiedenen
+Arten von Vaceinium (V. myrtillus, V. vitis idaea, V. uliginosuin) und von
+Arbutus (A. alpina, A. uva ursi) sind um Kautokeino reichlich vorhanden, allein
+ihre Beeren waren kaum reif. Zwei Gräser, Festuca ovina und Aira flexuosa
+erreichen auf den feuchten Sandbänken des Altenelf eine riesige Höhe. Unter den
+Vögeln kommt eine ziemlich seltene Eule, Strix kaparakok, in der Umgegend häufig
+vor.
+
+Am 13. Abends genossen wir den schönen Anblick eines Nordlichts an einem leider
+sehr bewölkten Himmel, während der Nacht fiel das Thermometer auf —5 Grade.
+
+Wir verließen Kautokeino den 14. September um zwölf und einhalb Uhr, indem wir
+unsere Schritte Karesuando zulenkten, und erreichten um fünfundeinviertel Uhr
+die finnische Niederlassung Kalanito, nachdem wir zwei kleine Flüsse, den
+Everijocki und Akijocki überschritten hatten. Man kann den Fluß aufwärts von
+Kautokeino bis Kalanito im Nachen befahren. Ein Theil der Mitglieder der
+Kommission folgte diesem Wege und langte eine halbe Stunde vor dem Haupttrupp
+der Karawane an, der den Landweg eingeschlagen hatte. Die Umgegend von Kalanito
+ist ziemlich waldig; unter den Birken und Weiden, welche eine ziemliche Höhe (10
+Meter etwa) erreichen, sieht man mehrere interessante Arten wachsen, wie
+Polemonium caeruleum L., Geranium sylvaticum L., Veronica longifolia I., var. 𝛾
+incisa Hartm., Carduus heterophyllus L., Galium uliginosum L., Alopecurus fulvus
+Sm., Calamogrostis phragmitoides Hartm., Triticum repens L. sowie einige andere
+diesen eisigen Gegenden eigenthümliche Pflanzen. Die Ebene, welche sich vor der
+Niederlassung ausbreitet, liegt 307 Meter über dem Meere.
+
+Zwischen Kautokeino und Kalanito bietet der Boden sanfte wellenförmigeẽ
+Erhebungen und an vielen Stellen große kegelförmige Vertiefungen dar, welche
+durch kleine Erhöhungen in Form länglicher Dome von einander getrennt werden.
+Wasser findet man auf dem Grunde dieser natürlichen Trichter nicht. Die
+Renthierflechte (Cenomyce rangiferina Achar.) bedeckt den Boden und schließt
+fast jede andere Kräutervegetation aus. Die gelbe Farbe derselben verleiht der
+Landschaft ein ganz eigenthümliches Aussehen, als wäre die Erde mit Schwefel
+bestreut, und die kegelförmigen Trichter, von denen man umgeben ist, tragen zur
+Unterhaltung der Täuschung bei. Die Renthierflechte bildet die Hauptnahrung
+dieser Thiere während des Winters. Im Sommer weiden sie das Gras und die Blätter
+der Bäume ab, wie die Wiederkäuer unserer Klimate. Die Flechte ist nur im Winter
+eßbar, wenn ein längeres Verweilen unter dem Schnee ihre Ausbreitungen erweicht
+hat, welche im Sommer hart und lederartig sind. Natur und Farbe des Bodens in
+dem Distrikt, von dem die Rede gewesen, erklären die wahrscheinlich
+übertriebenen Berichte über die unerträgliche Hitze, von der mehre Reisende beim
+Bereisen Lapplands zu leiden gehabt haben. Es ist begreiflich, daß die
+fortwährende Wirkung der Strahlen einer Sonne, die nicht untergeht, endlich die
+ausgedörrten Flechten, welche den Boden bedecken, mächtig erhitzen und auf die
+mit ihnen in Verbindung stehende Luftschicht zurückwirken muß. Nimmt man dazu
+die Rückwerfung der Sonnenstrahlen von den zahlreichen Falten des Terrains, so
+begreift man, wie es möglich gewesen, in Lappland eine fast eben so starke
+Hitze, wie in den Wüsten Afrikas zu erleiden.
+
+Den 15. September um sechs und einhalb Uhr Morgens verließen wir Kalanito und
+folgten dem rechten Ufer des Altenelf. Am Tage zuvor hatten wir das linke Ufer
+verlassen und den Fluß vor Kalanito durchwatet. Während der Nacht war Schnee
+gefallen, und lag mehrere Centimeter hoch um uns her; Abends aber war er beinahe
+gänzlich geschmolzen.
+
+In einer Höhe von 341 Meter über dem Meere sahen wir die Kiefern wieder zum
+Vorschein kommen, ihre Höhengrenze ist hier weit auffallender als im
+Altendistrikt. Allerdings waren sie verkrüppelt, doch war ihre Erscheinung an
+den nach Westen gekehrten Abhängen in eben dieser Höhe bei weitem schöner. Gegen
+neun Uhr bestimmten wir eine andere Grenze auf einem kleinen Plateau von 374
+Meter Höhe; wir bemerkten, daß die nach Osten gekehrten Abhänge keinen einzigen
+Stamm dieser kostbaren Bäume darboten, während die des Plateaus nahe an 5 Meter
+Höhe maßen. Um zwölf und ein halb Uhr setzten wir über einen kleinen Fluß Namens
+Suobadusjocki, an dessen Ufern wir einige Zeit verweilten. Es ist einer der
+Zuflüsse des Altenelf, von dem wir bei Kalanito Abschied genommen hatten; er
+fließt von S. O. nach N. W. Wir befanden uns daselbst 451 Meter über dem
+Meeresspiegel und hatten den Altenelf zu unserer Rechten; die Quellen des
+letztern Flusses liegen gegen Westen, 6 Myriameter etwa von unserer Station
+Suvajervi. Von Kalanito ab ist das Land im Allgemeinen flach oder einfach
+gewellt; das durchschnittliche Niveau desselben erhebt sich nicht über 470
+Meter, die Gewässer fließen nach Norden. Die Seen sind zahlreich, aber von
+geringer Ausdehnung, das sie umgebende Terrain ist oft weit niedriger, als der
+Spiegel ihrer Gewässer, allein kleine Torfpolster, von Weiden eingefaßt,
+widersetzen sich dem Abfluß derselben. Indem sie das Wachsthum der Moose, die
+Torfbildung, die Entwickelung und das Verwachsen der Wurzeln von Weiden, Binsen
+und Riedgräsern begünstigen, tragen diese stehenden Gewässer selbst zur Erhöhung
+des Dammes bei, welcher die Beständigkeit ihres Niveaus erhält. Die Ingenieure
+dürften nützliche Fingerzeige im Studium dieser natürlichen Eindämmungen finden.
+Trotz dieser eigenthümlichen Anordnung besitzen diese Seen einen, allerdings
+sehr langsamen, Abfluß. Die Zuflüsse bieten wahrscheinlich ähnliche, stufenweis
+übereinander liegende und eben so viel Mühlgerinne und Schleuseneinsätze
+bildende Einzapfungen dar, die sämmtlich auf Kosten der Natur entstanden sind.
+
+Am Abend überschritten wir die Wasserscheidungslinie der beiden Meere und
+erklommen die letzte Kette, welche uns von dem großen Thale des Muonioelf
+trennte. Diese Kette ist niedrig (etwa 550 Meter hoch) und bietet keinen
+sonderlich hervorragenden Punkt dar, wie bereits Buch bemerkt hat, dessen Route
+unter dieser Breite übrigens östlicher als die unserige war. Der höchste Punkt
+des Passes, den wir zurücklegten, liegt 532 Meter über dem Meere. Die Kiefer war
+vollständig verschwunden, als Entschädigung erlangten wir einige Höhengrenzen
+von Birken. So trafen wir gegen zwei und dreiviertel Uhr diese Bäume 433 Meter
+hoch auf einem Plateau an, wo sie vollständig verkrüppelt waren. Auf einem
+benachbarten, nach Osten gekehrten Hügel erreichen sie 520 Meter, auf einem
+kleinen an die Nordseite eines Hügels angelehnten Plateau 498 Meter, und bei der
+Richtung nach S. W. reichten die verkrüppelten Birken bis zu 530 Meter hinauf.
+Am selben Ort und am selben Abhang erreicht der Vogelbeerbaum eine Höhe von 474
+Meter. Man sieht, daß die Grenze der Sorbus aucuparia 40 bis 50 Meter niedriger
+als die der Birke ist. Dort überzog die Cenonyyce rangiferina abermals den Boden
+vollständig, kaum dem Empetrum nigrum und einigen Arbutus Platz lassend. Von
+Buch hatte bereits festgestellt, daß diese Flechte am häufigsten zwischen den
+Grenzen der Kiefer und der Birke (350 bis 500 Meter) ist.^[^0312]^
+
+Um sieben Uhr Abends erreichten wir Suvajervi, wir hatten damit russisches
+Gebiet betreten. Suvajervi ist weiter nichts, als eine elende von zwei
+angesessenen Lappen bewohnte und am Ufer des Sees gleichen Namens gelegene
+Hütte, deren Höhe unsere Beobachtungen auf 409 Meter festsetzen. Dieser See ist
+ziemlich groß und mag einen halben Myriameter lang sein, er ist fischreich, und
+sein lappländischer Name zeigt an, daß er eine beträchtliche Tiefe besitzt.
+Seine Ufer sind übrigens sehr dürr.
+
+Den 16. September um zwölf und ein halb Uhr verließen wir die lappländische
+Hütte von Suvajervi, und indem wir durch einen immer weniger bergigen Distrikt
+zogen, erreichten wir Karesuando gegen sieben Uhr Abends. Ein ziemlich
+schlichter Abhang führt von der ersten zur zweiten dieser Stationen. Um zwei und
+ein halb Uhr zeigten sich die Kiefern wieder; auf einer nach W.S.W. geneigten
+Abdachung stiegen sie bis zu 410 Meter hinauf. Diese Kiefern waren bereits hoch
+gewachsen, denn sie erreichten 10 Meter. Etwas weiter sahen wir sie am selben
+Abhange in einer Höhe, welche wir etwa 60 Meter höher als die erstern schätzten.
+Diese Zahlen stimmen mit denen Leopold von Buch's, welcher unter derselben
+Breite, aber einige Myriameter weiter östlich, diese Grenze bei 405 Meter
+befunden hat. Bei ihrem nächsten Auftreten gesellen sich die Kiefern sofort zu
+großen Wäldern zusammen, welche ohne Unterbrechung bis zum Bottnischen Meerbusen
+herrschen.^[^0313]^ 
+
+In Karesuando richteten wir uns beim Pastor Lästadius ein,
+der zu wiederholten Malen die Güte gehabt hatte, an den Arbeiten der Kommission
+Theil zu nehmen. Unsere erste Sorge war, unsere beiden Barometer mit dem
+Barometer Nr. 8 von Ernst zu vergleichen, welches ihm die französische Regierung
+zur Verfügung gestellt hatte, um seine meteorologischen Untersuchungen zu
+erleichtern. Wir bestimmten demnach die konstante Korrektion, welcher die
+Lesungen dieses Barometers unterliegen mußten, um den wahren Druck der
+Atmosphäre zu ergeben. Diese Korrektion wurde als ein Mehr von und =+ 0,~64~
+befunden, vermöge eines Mittels von sechs Messungen, angestellt mit jedem der
+Barometer No. 23 und No. 43 von Ernst, welche wir bei uns trugen. Das Barometer
+No. 8 ist im Erdgeschosse des Prästgaard, 0,~8~ über dem Fußboden aufgestellt.
+Die Berechnung ergiebt 324 Meter für die Höhe des Gefäßes über dem Meere. Noch
+genauer wird man dieses Niveau bestimmen können, wenn man damit die Gesammtheit
+der zu Kaafjord von den Herren Minen-Ingenieuren und zu Karesuando von Herrn
+Lästadius seit dem 1. Mai 1838 angestellten regelmäßigen Beobachtungen
+vergleicht. Die erlangte Zahl nähert sich aber jedenfalls sehr der Wahrheit. Vor
+dem Hause des Pfarrers ist das Niveau des Muonioelf 319 Meter über dem Spiegel
+des Ozeans erhaben.
+
+Karesuando ist für das schwedische Lappland, was Kautokeino für das norwegische
+Lappland; es ist der Mittelpunkt des Distrikts, es befindet sich daselbst ein
+Prästgaard und ein Thing oder Stadthaus. Die Kirche befand sich ehemals zu
+Enontekis; allein seit das Dorf russisch geworden, ist sie, nicht Stein für
+Stein, sondern Balken für Balken und Brett für Brett auf schwedisches Gebiet
+geschafft worden. Die Häuser sind um die Kirche gruppirt. Südlich von Karesuando
+liegt ein ziemlich großer See, aus dem Schoße desselben steigen zwei bis drei
+grüne Eilande empor. Der Muonio fließt von W.-N.-W. nach O.-S.-O.; seine Breite
+von wenigstens 200 Metern und seine rasche Strömung machen ihn schon zu einem
+bedeutenden Flusse. Die Umgebungen sind offen und sehr waldig, die Kiefer ist
+daselbst reichlich vorhanden.
+
+Der Pastor Lästadius, welcher jeden Augenblick, den ihm die Pflichten seines
+Amtes frei lassen, der Botanik widmet, hat dem Pflanzengarten zu Paris zwei
+Sendungen von Pflanzen gemacht, welche zu Karesuando, Piteo, Torneo, Tromsoe,
+Lyngen und Kaafjord gesammelt wurden. Die Proben sind zahlreich und mit großer
+Sorgfalt gesammelt und bestimmt. Das nachfolgende Verzeichniß umfaßt die
+bemerkenswerthesten, von Herrn Lästadius eingesandten Arten aus der Umgegend von
+Karesuando; die Abarten und Bastarde habe ich bei Seite gelassen, sie würden
+überflüssig gewesen sein bei einem Vegetationsverzeichnisse dieses Distrikts,
+das als Maßstab für die Vergleichung mit den nördlichen Gegenden oder alpinen
+Zonen der gemäßigten Länder dienen soll.
+
+::::
+
+
+### Pflanzen aus der Umgegend von Karesuando.
+
+:::: { .align-center .fs-xs }
+(Br. 68° 36´ n., L. 20° 18´ ö)
+::::
+
+
+:::: justified
+
+`Ranunculaceae.` Ranunculus acris L., R. auricomus L., R. hyperboreus Rottb., R.
+reptans L., R. lapponicus L., R. aquatilis L, R. repens L.
+
+`Cruciferae.` Draba hirta L., Barbarea vulgaris Br.
+
+`Violarieae.` Viola palustris L., V. biflora IL.
+
+`Caryophylleae.` Lychnis alpina L., Stellaria graminea L., S. longifolia Fries,
+S. alpestris Pr., S. crassifolia Ehrh., Spergula saginoides L., Cerastium
+triviale Link, C. vulgatum Wahlenb., C. viscosum L., C. alpinum L., C. trigynum
+Vill.
+
+`Geraniaceae.` Geranium sylvaticum L.
+
+`Leguminosae.` Phaca frigida L., Astragalus alpinus L.
+
+`Rosaceae.` Rubus castoreus Laest., R. arcticus L, Potentilla alpestris Fr.,
+Sorbus aucuparia L.
+
+`Halorageae.` Callitriche verna L.
+
+`Onagrarieae.` Epilobium alpinum L.
+
+`Saxifrageae.` Saxifraga hirculus L.
+
+`Rubiaceae.` Galium palustre L.
+
+`Compositae.` Pyrethrum inodorum Sm., Solidago virga aurea L., Saussurea alpina
+DC., Tussilago frigida L., Gnaphalium dioicum L., G. alpinum L., G. supinum
+Hoffim., Hieracium vulgatum Fr., H. boreale Pr., B. sylvaticum WVahlenb., H.
+alpinum L., Erigeron uniflorus L., Sonchus sibiricus L.
+
+`Ericaceae.` Arbutus alpina L., Menziezia caerulea Vbg., Chamaeledon procumbens
+Link.
+
+`Gentianeae.` Gentiana nivalis L.
+
+`Polemoniaceae.` Polemonium caeruleum L.
+
+`Rhinanthaceae.` Pedicularis lapponica L., P. palustris L, Rhinanthus
+cristagalli L., Bartsia alpina L., Euphrasia officinalis L., Veronica
+serpyllifolia L., V. longifolia L.
+
+`Labiatae.` Galeopsis tetrahit L., G. versicolor Willd.
+
+`Utriculariecae.` Pinguicula villosa L., P. alpina L.
+
+`Polygoneae.` Rumex domesticus Hartm., R. acetosa L., Oxyria reniformis Hoock,
+Polygonum viviparum L.
+
+`Amentaceae.` salix versifolia WVahlenb., S. myrsinites L, S. Herbacea L., S.
+myrtilloides L., S. lanata L., S. Lapponum L., S. arbuscula L., S. nigricans L.,
+S. hastata Hartm., S. limosa Wahlenb., S. capraea L., S. canesceus Fr., Betula
+nana L., B. humilis Hartm., B. pubescens Ehrh., B. alba L.
+
+`Orchideae.` Orchis lapponica Laest.
+
+`Colchicaceae.` Tofieldia borealis Wahlenb.
+
+`Junceae.` Juncus triglumis L.,, J. nodulosus Wahlenb., J. trifidus L., J.
+stygius L., J. triglumis L., Luzula parviflora Ehrh., L. spicata DC., L.
+campestris DC.
+
+`Cyperaceae.` Eriophorum capitatum Hoffm., E. vaginatum L., E. alpinum L., E.
+polystachyum L., E. russeolum Fr., E. gracile Koch, E. angustifolium Reich.,
+Carex curvirostra Hartm., C. panicea L., C. livida Wahlenb., C. microglochin
+Wahlenb., C. pauciflora Lightf., C. laxa Wahlenb., C. saxatilis Wahlenb., C.
+ampullacea L. C. limosa L., C. rotundata WVahlenb., C. aquatilis Vahlenb., C.
+eapitata L., C. tenuiflora WVahlenb., C. loliacea L, C. chordoriza Ehrh., C.
+capillaris L., C. canescens L., C. cespitosa L., C. teretiuscula Good., C.
+heleonastes Ehrh., C. Buxbaumii Wahlenb., C. dioica L. C. microstachya Ehrh., C.
+tenuiflora Wahlenb.
+
+`Gramineae.` Calamagrostis phragmitoides Hartm., C. epigejos L., C. strigosa
+Wahlenb., C. Halleriana Hartm., Agrostis stolonifera L., A. canina L., A. .rubra
+L. Phleum alpinum L., Alopecurus geniculatus L, Aira atropurpurea Wahlenb., A.
+flexuosa L., Avena subspicata Wahlenb., A. alpestris Hartm., Festuca rubra L.,
+EF. ovina L., Arundo stricta Wahlenb., A. lapponica WVbg., Poa serotina Hartm.,
+P. flexuosa Wahlenb., P. annua L.
+
+Zu Karesuando verließen wir die übrigen Mitglieder der Kommission. Wir gewannen
+bei dieser Trennung eine Freiheit der Bewegung, ohne die eine wissenschaftliche
+Reise nicht von Nutzen sein kann. In der That ist das Ziel, welches sich
+Physiker und Naturforscher stecken, so verschieden von demjenigen, welches der
+Gelehrte und der Künstler verfolgen, daß sie sich durch die Verpflichtung,
+beisammen zu bleiben, gegenseitig hindern. An den Grenzen der europäischen
+Civilisation angelangt, trennten wir uns nicht ohne Bedauern, aber im Interesse
+unserer beiderseitigen Arbeiten.
+
+Am 19. September Morgens acht Uhr nahmen wir vom Pastor Lästadius Abschied, um
+den Muonio und Torneoelf bis Kulkula, einem nur wenige Myriameter vom
+Bottnischen Meerbusen gelegenen Dorfe, hinunterzugehen. Das Wetter, anfangs
+unsicher und veränderlich, setzte sich und ward schön. Auf den Renthierfellen,
+womit unsere Barke ausgeschlagen war, hingestreckt, ließen wir unsere Blicke von
+einem Ufer zum andern schweifen. Bald glitten wir langsam die Krümmungen der
+grünenden Ufer des Flusses entlang, bald riß uns sein ungestümer Lauf schnell
+mit sich fort. Durch das Scholken der Wellen hin und her geworfen, und von den
+Wirbeln erfaßt, welche um die aus dem Wasser hervorragenden Klippen schlugen,
+schoß unsere Barke alsdann wie ein Pfeil dahin, den höckerigen Grund des Flusses
+mit dem Kiele streifend, worauf sie wieder in einem Wasser, ruhig wie das eines
+Sees, gemächlich weiterglitt.
+
+Am ersten Tage kamen wir bei Kuttano oder Kuttaneby am rechten Ufer und
+Palajocki und Songa-Motka am linken, also zu Rußland gehörigen Ufer, vorbei und
+erreichten am Abend Katkesuando, ein auf dem linken Ufer gelegenes und folglich
+zu Rußland gehöriges Dorf. Palajocki ist ohne Zweifel das Palajönsu von
+Buch's;^[^0314]^ es ist der Punkt, wo dieser Reisende den Muonioelf wieder
+erreichte. Die Lappen verändern bekanntlich gern die Endungen ihrer Hauptwörter,
+und *Jocki* bedeutet im Lappländischen Fluß. Um fünf und ein halb Uhr begegneten
+wir den ersten Fichten (Abies excelsa) genau an der Stelle, wo sie auf von
+Buch's Karte verzeichnet stehen, 15 Kilometer etwa oberhalb Katkesuando und 250
+(nach von Buch 260) Meter über dem Meere. Ihre Aeste sind starr und hängen nicht
+wie die der südlicheren Zonen herab. Die Breite des Flusses ist beträchtlich,
+denn meist übertrifft sie die der Seine bei Paris, übrigens sind seine Ufer
+flach und einförmig.
+
+Folgenden Tages, den 20. September, um fünf und ein halb Uhr Morgens von
+Katkesuando aufgebrochen, erreichten wir Unter-Muonioniska gegen zehn Uhr
+Morgens. Beim Anlanden konnten wir uns einen Augenblick lang nach Frankreich
+versetzt wähnen. Lieblich gewellte Hügel waren von jüngst erst abgeernteten
+Feldern bedeckt; auf dem Gipfel des einen erinnerte uns ein cylindrischer
+massiver Thurm an die großen Taubenhäuser von Beauce; die Luft war rein, die
+Sonne fast heiß. Vor vierzehn Tagen bis drittehalb Wochen hatte man die Gerste,
+das einzige Getreide, welches sich unter dieser Breite anbauen läßt,
+eingeheimst. Seit zehn Jahren war die Ernte nie so schön ausgefallen, die Gerste
+war fast zu völliger Reife gelangt. Dieselbe hängt von der Temperatur und der
+Klarheit des Himmels während der letzten Wochen im August und zu Anfang
+Septembers ab. Daher das im Norden sehr verbreitete Vorurtheil, daß der Mond
+viel zum Reifen des Getreides beitrage. Unsere Landleute messen das Erfrieren
+der Frühjahrstriebe dem tückischen Einflusse des Aprilmondes bei, während es von
+der Wärmestrahlung der Pflanzen während einer klaren Nacht herrührt, und
+diejenigen an den Ufern des Muonioelf bedenken nicht, daß auf die kurzen Nächte,
+wo der Mond am Firmamente glänzt, lange Tage folgen, an denen der wolkenlose
+Himmel der Sonne gestattet, ihre Ernten zur Reife zu bringen. Wenn der Himmel
+für gewöhnlich mit Wolken bedeckt wäre, so würden sie den Mond nicht alle ihre
+Nächte erhellen sehen. Trotzdem ist die Reife der Gerste nie vollständig. Bevor
+man die Ernte einbringt, muß man sie trocknen. Zu dem Ende theilt man die Gerste
+in kleine Garben ab, die man senkrecht auf Trockengerüsten aufhängt, welche aus
+wagerecht übereinander gelegten Stangen bestehen. Diese Gewohnheit trifft man
+auch in den Hochthälern des Wallis im Allgemeinen und in denen von Entremont,
+Saas und Zermatt im Besondern an. Sämmtliche Dörfer, deren Höhe 1300 Meter über
+dem Meeresspiegel übersteigt, sind von diesen großen Trockengerüsten umgeben. In
+Lappland legt man die Gerste, wenn sie zu feucht und die Jahreszeit zu kalt ist,
+wagerecht auf das Dach kleiner Häuser ohne Fenster, in deren Innerm sich ein
+großer Ofen befindet, dessen Rauch durch die Thür abzieht. Den Rest des Tages
+verbrachten wir in Muonioniska, und Nachts bekamen wir ein sehr schönes
+Nordlicht zu Gesicht. Beim Dorfe ist das Niveau des Flusses 225 Meter über dem
+des Meeres erhaben.
+
+Den 21. September verließen wir Muonioniska um fünf und ein viertel Uhr Morgens.
+Wir gingen nicht im Nachen die berühmte Stromschnelle des Eyenparka hinab,
+sondern schlugen einen Fußpfad ein, der uns durch sumpfige Waldungen führte.
+Unterhalb der Stromschnellen erreichten wir die Spitze des gen Süden wandernden
+Lemmingszuges. Ihre Aeser bedeckten die Gestade des Flusses und die Raubvögel
+waren dergestalt gesättigt, daß sie nur noch das Herz und die Leber fraßen. An
+keinem andern Punkte noch waren uns diese Nagethiere so zahlreich erschienen,
+und fast alle liefen parallel mit der Richtung des Flusses. Das Aussehen seiner
+Ufer hatte sich verändert. Er floß inmitten großer Fichten- und Kiefernwälder,
+welche bis an seine Ufer traten; einzelne Bäume waren über den Strom geneigt,
+welcher sie unterwühlte, und ihre Zweige, in den Gewässern des Flusses gebadet,
+schienen nahe daran zu sein, von den Wogen, welche sie unablässig zerrten,
+fortgerissen zn werden. Oft ward der Wald durch einen Sumpf unterbrochen, der
+eine große Lichtung bildete, wo verkrüppelte Kiefern inmitten des Torfes ihr
+jämmerliches Dasein fristeten. Von Zeit zu Zeit kündete sich uns schon von ferne
+ein finländischer Meierhof durch den Schwengel an, welcher sich über den Brunnen
+desselben erhob. Wenn der Muonioelf, ruhig und majestätisch, sich in der Ebene
+auszubreiten schien, dünkte es uns, als ob wir einen jener großen Ströme
+Amerikas hinunterglitten, der über seine Ufer getreten sei und Hunderte von
+Myriametern einsam durch Savannen und jungfräuliche Wälder hinflute. Wenige
+Vorfälle unterbrachen die Einförmigkeit unserer Wasserfahrt. Das Ufer war
+unbewohnt, und wir begegneten keinem Nachen. Eines Tages jedoch bemerkten wir
+von weitem eine menschliche Gestalt inmitten des Flusses, ohne die Barke, welche
+sie trug, erkennen zu können. Je mehr wir uns näherten, desto deutlicher ward
+der Mann, der Nachen aber blieb unsichtbar. Endlich klärte sich die Sache auf.
+Es war ein finnischer Bauer, der sich einige Bäume oberhalb des Flusses gefällt
+hatte, und nun auf den Stämmen, woraus er sich ein Floß gemacht, sitzend, nach
+Hause zurückkehrte.
+
+So passirten wir allmälig die Dörfer Palkajocki und Kilangi, beide am linken
+Ufer liegend, dann Huki, welches auf dem schwedischen Ufer liegt; nicht weit
+hinter Huki erblickten wir die Mündung des Niesajocki und erreichten Kolare, wo
+wir die Nacht zubrachten. Kolare liegt auf einer Insel und gehört zu Rußland;
+der Arm des Muonioelf, auf dem man zum Dorfe gelangt, ist der Kolareelf. Die
+Höhe unseres Rastplatzes ward 158, die des Flusses 149 Meter befunden.
+
+Am folgenden Morgen, den 22. September, durchschnitten wir die Insel zu Fuß und
+begaben uns an das westliche Ufer derselben; ein Wägelchen schaffte unser Gepäck
+hinüber. Am jenseitigen Ufer angekommen, wechselten wir Kahn und Mannschaft und
+gingen so bis Jokkialka, einem 5 Kilometer unterhalb Kolare gelegenen russischen
+Dorfe hinunter. Dort wechselten wir zum zweiten Male mit dem Kahn. Um elf und
+ein halb Uhr kamen wir bei Kiexisvara vorbei, wo die Herren Lottin und
+Lilliehöok im Mai 1839 einen Aufenthalt machten. Da das Dorf im Gehölz liegt, so
+ist es vom Flusse aus unmöglich, dasselbe zu bemerken. Nicht lange darauf
+schwammen wir im Zusammenflusse des Muonio mit dem Torneo, der, nachdem er
+seinen Tributär aufgenommen hat, seinen Namen beibehält. Doch stößt der
+Torneoelf im rechten Winkel auf seinen Nebenbuhler, der sich von seiner geraden
+Richtung nicht abwendet. Durch seine Breite ist der Muonioelf dem Torneoelf
+überlegen, seine Strömung jedoch weniger schnell und seine Wassermenge wohl
+nicht ganz so bedeutend. Kengis liegt an den Ufern des Torneo. Die 2 Kilometer
+vom Dorfe gelegenen Eisenhämmer besitzen eine gewisse Berühmtheit. Herr Anglös,
+welcher zwei Tage nach uns Kengis passirte, sah daselbst die ersten Sperlinge
+wieder. In der Provinz Finmarken sind sie unbekannt.
+
+Die Stromschnellen sind in diesem Theile des Flußlaufes häufig. Sie sind an
+allen Punkten vorhanden, wo das Bett uneben und das Gefälle etwas stark ist.
+Alsdann verursacht die Flußströmung Wellen, welche sich beständig rückwärts
+brechen, und ein scholkendes Meer mit kurzen Wellen nachahmen. Der Mann, welcher
+das Steuerruder hält, muß diese Wellen immer so viel als möglich im rechten
+Winkel durchschneiden, denn eine Welle, welche sich seitlich über die ganze
+Länge des Nachens bräche, könnte ihn zum Umschlagen bringen. Die Kähne sind
+danach gebaut, nach vorn sind sie emporgerichtet, und die Form des Kiels bildet
+in diesem Theile eine schräge Fläche, welche das Geraderichten des Vordertheiles
+erleichtert. Ueberdies paßt man ihnen noch zwei Planken an, welche die
+Seitenbekleidungen erhöhen. Ueberall, wo die Welle sich sehr stark bricht, kann
+man sicher sein, daß eine Klippe wasserpaß liegt und entweder weicht man ihr
+schon von Weitem aus, oder man steuert auch gerade auf sie los, um in ihren
+Strudel hineingerissen zu werden. Uebrigens kommt es selten vor, daß das
+Felsenriff die ganze Breite des Flusses einnimmt. Zuweilen ist man genöthigt, im
+Halbkreis um gewisse Klippen zu biegen, wie z. B. bei der Stromschnelle von
+Matkojocki bei Korpikula. Da es wichtig ist, daß der Nachen sich fortwährend
+leicht steuern lasse, rudern die Bootsleute aus Leibeskräften, und das Fahrzeug
+erhält so eine wahrhaft erschreckende Schnelligkeit. In solche Stellen würde man
+sich nicht ohne Nothruder hineinwagen, denn ein plötzlich abgebrochenes Ruder
+würde den Untergang der Barke und der Menschen, welche sie trägt, nach sich
+ziehen.
+
+Um sechs und ein halb Uhr Abends kamen wir im Gasthause von Pello an. Dieses
+Dorf bildet die nördliche Spitze des von Maupertuis gemessenen Bogens, des
+ersten Franzosen, welcher Lappland in wissenschaftlicher Absicht besuchte, doch
+vermochten wir keine sichere Spur von dem Aufenthalte dieses großen Geometers
+aufzufinden.^[^0315]^ 
+
+Folgenden Tages verließen wir Pello um sieben und ein halb Uhr. Einen Myriameter
+unterhalb dieses Punktes sahen wir zum ersten Male das Tanacetum vulgare und das
+Trifolium repens. Um elf Uhr kamen wir bei dem russischen Dorfe Tortula an.
+Diesem Punkte gegenüber wies das Barometer den Gewässern des Flusses 30 Meter
+Höhe über dem Meere an, eine Zahl, die uns zu gering erscheint. Hier ist die
+äußerste Grenze der Hopfenkultur, und Herr Angléès hat hier eine Birke von
+2,~44~ Meter Umfang gemessen.
+
+Da wir am linken Ufer ein hübsches Landhaus, von schönen Wirthschaftsgebäuden
+umgeben, bemerkt hatten, so konnten wir dem Verlangen nicht widerstehen,
+demselben einen Besuch abzustatten. Der Herr des Hauses empfing uns sehr artig
+und ließ uns in einen ziemlich eleganten Salon eintreten, wo eine seiner Töchter
+auf dem Piano spielte. Diese Töne machten einen magischen Eindruck auf uns; es
+war ein fernes Echo der Civilisation, welche uns inmitten der Einöden Lapplands
+aufsuchte. Jeder von uns knüpfte irgend eine Erinnerung an die abwesende Heimath
+daran, und wir hatten einige Mühe, uns von diesem Salon, dem allernördlichsten
+unter diesem Meridian, loszureißen, um unsere Barke wiederzugewinnen.
+
+Auf diesem Theile unserer Reise war es, wo sich allmälig wieder die
+Verfeinerungen der Civilisation einstellten; wir konnten zugleich die
+Breitengrenze der Pflanzen und die eines jeden jener Hausgeräthe bestimmen,
+welche man im Innern des gesitteten Europas als unerläßlich zum Leben
+betrachtet. Auf dem lappländischen Hochlande schliefen wir, von Renthierfellen
+eingehüllt und durch ein einfaches Zelt geschützt, am Muonioelf auf Heu in den
+Scheunen der finnischen Bauernhöfe, weiter südlich breitete man Tücher über das
+trockne Gras, welches uns als Lager dienen sollte. In Pello hatten wir jeder
+eine Bettstelle und ein Betttuch, in Mattaringi war unser Bett mit zwei Laken
+versehen, aber erst in Kulkula schien unser Lager allen Anforderungen des
+europäischen Reisenden zu genügen. Die Küche beobachtete denselben Fortschritt,
+leider war es immer die aus dem Jahrhunderte Ludwigs XIV., welche Boileau in
+seiner dritten Satire so prächtig beschrieben hat.^[^0316]^
+
+Unterhalb Tortula liegt das schwedische Dorf Jocksengi und das Städtchen
+Mattaringi, ehedem Ober-Torneo (Ofver Torneo). Die Landstraße von Stockholm nach
+Norden geht nicht über letztere Stadt hinaus.
+
+Am folgenden Tage, den 24. September, blieben wir in Mattaringi und machten
+einen Ausflug auf den Gipfel des Avasara, eines Berges, der durch die Messung
+eines Längengrades berühmt geworden ist, welche nacheinander im Jahre 1738 von
+Maupertuis und Celsius, und im Jahre 1801 von Ofverböm und Svanberg angestellt
+wurde. Wir fanden mit dem Barometer, daß der Gipfel dieses Berges 196 Meter über
+den Gewässern des Torneoelf liegt. Diese Höhe kann nicht viel von der wahren
+abweichen. In dem Bericht von Svanberg lesen wir, daß die schwedischen
+Beobachter vom Gipfel des Avasaxa aus für die Eintiefung der Nordgrenze ihrer
+Basis 51722 Centesimalsekunden, rund 4° 39´ 18“, gefunden haben, während der
+horizontale Abstand zwischen beiden Punkten 2132 Meter betrug. Daraus ergiebt
+sich für den Niveauunterschied 187,5 M., und es ist nur noch die Höhe des
+Signals, der Nordspitze der Basis über den Gewässern des Torneoelf hinzuzufügen,
+sowie der Augenhöhe des Beobachters über dem Gipfel des Avasaxa Rechnung zu
+tragen. Wir haben die Elemente zu diesen Korrektionen nicht in Händen, doch kann
+man nach dem Bericht von Svanberg annehmen, daß sie die beobechtete Höhe in eine
+Höhe von 190 bis 195 Meter verwandeln würden. Was die der Flußgewässer von
+Mattaringi betrifft, so geben ihr unsere Beobachter 21 Meter, doch ist wohl die
+Höhe von 48 Meter, welche Herr Svanberg angiebt, vorzuziehen. Der Abstand,
+welcher uns von Karesuando trennte, war bereits zu groß, als daß wir auf die
+Genauigkeit der barometrischen Resultate hätten rechnen können, und die Messung
+des Herrn Svanberg ergiebt sich wahrscheinlich aus einem geodätischen
+Nivellement.
+
+Die Vegetation des Avasaxa ist sehr schön, Heidelbeeren und Bärentrauben sind in
+Menge vorhanden. Ihre Beeren waren reif. Während der beiden Sommer, welche wir
+im Eismeere zugebracht hatten, des Obstes beraubt, fanden wir den Geschmack
+derselben köstlich. Auf dem Gipfel bewunderten wir Birken von 10 Meter Höhe,
+deren schwankende und hängende Aeste an die Physiognomie dieses Baumes in den
+französischen Landschaften erinnerten.
+
+Zu Mattaringi (Ofver-Torneo) vernahmen wir, daß Herr Portin, den Meteorologen
+durch seine langen Reihen von Beobachtungen wohl bekannt, im vergangenen Winter
+gestorben sei. Leider konnten wir unser Barometer nicht mit dem seinigen
+vergleichen, da das Quecksilber in der Zeit zwischen seinem Tode und unserer
+Ankunft ausgeflossen war. An diesem Instrument saß eine Papierskala in Zolle und
+Zehntelzolle eingetheilt. Wir versicherten uns, daß 3 Zolle dieser Eintheilung
+89 Millimetern, rund 1 Zoll = 29,~7~ Mm., gleichkamen. Die Röhre war viel zu
+kapillar, und die Kugel ohne beständiges Niveau. Man sieht, daß diese
+Beobachtungsreihen nur einen sehr geringen Grad von Vertrauen verdienen.
+
+Am 26. September Abends gingen wir in Kulkula zur Ruhe, dort sind die Gewässer
+des Flusses nur noch an zehn Meter über dem Meere erhaben.
+
+Am folgenden Morgen verließen wir unsern Nachen, um den Landweg einzuschlagen.
+Das Land war mit geackerten Feldern bedeckt, die durch Hecken getrennt, und mit
+Wiesen und Schlagholz untermischt waren. Der Roggen gesellte sich zur Gerste,
+welche zu Mattaringi allein gebaut wird. Zahlreiche Windmühlen überragten die
+Gipfel der Hügel. Dieser Anblick erinnerte uns an die Umgegend von Paris, und
+doch befanden wir uns unter dem Polarkreise bei Torneo, dem äußersten Reiseziel
+der Touristen, welche die Sonne um Mitternacht sehen wollen. Den 26. um neun Uhr
+Morgens von Kulkula aufgebrochen, langten wir gegen Mittag zu Haparanda an. Seit
+Torneo russisch geworden ist, hat der Handel diese neue Stadt geschaffen, die
+sich wie durch Zauberschlag am schwedischen Ufer des Flusses erhebt und wächst.
+Wir blieben daselbst bis zum 3. Oktober, worauf wir die Heerstraße nach
+Stockholm einschlugen.
 
 ::::
 
@@ -1392,3 +2228,30 @@ glücklicher werden sie werden.
 
 [^0302]: [Siehe Kämtz, Lehrbuch der Meteorologie, Band I. S. 409 u. Taf. 2.]{.footnote}
 
+[^0303]: [Reise durch Norwegen und Lappland. 1810.]{.footnote}
+
+[^0304]: [Einige Botaniker, Herr Grisebach u. A., führen die gemeine Birke Norwegens auf Retula pubescens Ebrh. (Betula carpatica Willd.) zurück, die sie als eine bestimmte Art der Betula alba L. betrachten. Unsere Proben passen allerdings zu B. pubesceus Ehrh. Allein, dem Beispiele von Linné, Wahlenberg, Fries, Hartmann, Blytt und Spach folgend, der sich zuletzt mit der Gattung Betuls beschäftigt hat, betrachten wir diese angebliche Art als eine einfache Abart der gemeinen Birke.]{.footnote}
+
+[^0305]: [Reise durch Norwegen und Lappland. Bd. II., S. 142.]{.footnote}
+
+[^0306]: [Empetrum nigrum, Lychnis alpina, Andromeda tetragona, Poa alpina.]{.footnote}
+
+[^0307]: [Siehe von Buch's Reise. Bd. II. S. 114.]{.footnote}
+
+[^0308]: [Siehe a. a. O. Bd. II. S. 154.]{.footnote}
+
+[^0309]: [Siehe a. a. O. Bd. II. S. 167.]{.footnote}
+
+[^0310]: [Siehe die Revue zoologique, redigée par M. Guérin-Mone ville, juilllet 1840.]{.footnote}
+
+[^0311]: [Buch hatte (Bd. II S. 183) 265 Meter gefunden.]{.footnote}
+
+[^0312]: [Reise durch Norwegen und Lappland. Bd. II. S. 212.]{.footnote}
+
+[^0313]: [Außer den bereits genannten Pflanzen baben wir auf dem lappländischen Hochlande noch mehre andere interessante Arten gefunden, z. B. Barbares recta Fr., Angelica sylvestris L., Epilobium alpinum L., Saussuimea alpina DC., Veroniea alpina L., Salix phylicifolia L., Eriophorum angustisolium Sm., Arundo strieta Tim. u. A. lapponica Wahlenb.]{.footnote}
+
+[^0314]: [Siehe a. a. O. Bd. II. S. 218.]{.footnote}
+
+[^0315]: [Zwei Jahre später besuchte ich voll Andacht das Grab des Maupertuis in der Kirche des Dörfchens Oberdornach im Kanton Solothurn in der Schweiz. Nachdem er sich nach Basel zu seinem Freunde Johann Bernouilli zurückgezogen hatte, starb Maupertuis in seinen Armen und wollte in der bescheidenen Kirche dieses Weilers begraben sein. Hier seine Grabschrift, wie sie in eine einfache Sandsteinplatte eingehauen ist: <br/> „Virtus perennat, eetera labuntur. Vir illustris genere, ingenio summus, dignitato amplissimus, Petrus Ludovicus Moreau de Maupertuis ex eollesio XL. academicorum Ling. Frane., eques auratus ordinis Reg. Boruss. praestantibus meritis dicati, Academiarum celebrium Europae omnium socius ac Regiae Berolinensis praeses, natus in castro Sancti Maccorii, die XXVIII. sept. MDPCXCVIII., aetate integra lenta iorte consumptus, hie ossa sua condi voluit. <br/> „Catharina Eleonora de Bork, Maria soror et Joannes Bernouilli in eujus aedibus Basileae, die XXVI. Inlii MDCCLIX. . decessit, communis desiderii lenimen hocce monumentum beatis manibus posuerunt.“ ]{.footnote}
+
+[^0316]: [SAimez-vons la muscade, on en a mis partont. (Muskatnuß liebt Ihr wohl? Sie fehlt in keiner Schüssel.) ]{.footnote}
