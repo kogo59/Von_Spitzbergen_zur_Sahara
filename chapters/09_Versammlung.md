@@ -2705,7 +2705,7 @@ zweiten erklärt die des erstern.
 
 [^0924]: [Desor, Bulletin de la Société des sciences naturelles de Neufchatel t. V. p. 64, séance du 3 mai 1859.]{.footnote}
 
-[^0925]: [Ch. Lory, description grologique du Dauphiné, p. 694.]{.footnote}
+[^0925]: [Ch. Lory, description geologique du Dauphiné, p. 694.]{.footnote}
 
 
 
