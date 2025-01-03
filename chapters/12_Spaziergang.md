@@ -1142,10 +1142,6 @@ mehre Monate widmet.
 
 :::
 
-
-
-
-
 [^1200]: [Le Bosphore et Constantinople. In-8°. 1864.]{.footnote}
 
 [^1201]: [Siehe über Rhodus einen Artikel von Herrn Charles Cottu (Revue des deux mondes, 1r mars 1844). eine ausgezeichnete, im Jahre 1856 an der Faculté des lettres von Paris von Herrn V. Guerin, weiland Mitgliede der französischen Schule zu Athen, behauptete These, sowie das große mit Tafeln versehene Werk des Oberst Rottiers, betitelt: Monuments de Rhodes, 1830 zu Brüssel erschienen.]{.footnote}
