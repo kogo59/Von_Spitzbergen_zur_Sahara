@@ -496,9 +496,6 @@ hat.
 :::
 
 
-
-
-
 [^1300]: [Die zweihäusige Phytolacca (Phytolacea dioica, L.) aus Südamerika.]{.footnote}
 
 [^1301]: [Caesalpinia sappan.]{.footnote}
