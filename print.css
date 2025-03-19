@@ -5,3 +5,11 @@
     content: counter(page);
   }
 }
+
+h1 {
+  break-before: recto
+}
+
+h2 {
+  break-before: recto
+}
